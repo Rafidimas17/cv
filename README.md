@@ -18,7 +18,17 @@
 - **Provinsi:** Jawa Timur
 - **Nama Ibu:** Hj. Asijah Ba
 - **Nama Ayah:** H. Masjukri Anwar
-
+- **Instagram:** https://www.instagram.com/khoirurusydi/
+- **No Telepon:**
+  - **No Telepon 1:** 6288996318745
+  - **No Telepon 2:** 6288230839122
+  - **No Telepon 3:** 6288234105733
+  - **No Telepon 4:** 628814957189
+  - **No Telepon 5:** 628883330846
+  - **No Telepon 6:** 6281330760660
+  - **No Telepon 7:** 6285736011172
+  - **No Telepon 8:** 6281330760660
+   
 ## Riwayat Pendidikan:
 1. **Perguruan Tinggi:** Universitas Brawijaya
    - **Gelar Akademik:** S.E.
