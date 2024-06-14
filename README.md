@@ -1,6 +1,6 @@
 # CV: Mohamad Khoiru Rusydi
 
-![Foto Mohamad Khoiru Rusydi](link_ke_foto_mohamad_khoiru_rusydi)
+![Foto Mohamad Khoiru Rusydi](https://github.com/Rafidimas17/cv/blob/master/cv.jpeg)
 
 ## Informasi Pribadi:
 - **NIK:** 3573051504780001
