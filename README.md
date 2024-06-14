@@ -34,45 +34,56 @@
    - **Jenjang:** S3
 
 ## Keluarga:
-- [Istri](#cv-ita-mardiana)
-- [Anak Pertama](#cv-mohammad-haidar-firdaus)
-- [Anak Kedua](#cv-fakhira-nada-zalfa)
+- <details>
+  <summary>Istri</summary>
+  
+  ### CV: Ita Mardiana
 
-# CV: Ita Mardiana
+  ![Foto Ita Mardiana](link_ke_foto_ita_mardiana)
 
-![Foto Ita Mardiana](link_ke_foto_ita_mardiana)
+  #### Informasi Pribadi:
+  - **NIK:** 3573055204780003
+  - **Nama:** Ita Mardiana
+  - **Tempat/Tanggal Lahir:** Pekalongan, 12/04/1978
+  - **Jenis Kelamin:** Perempuan
+  - **Status Perkawinan:** Kawin
+  - **Pekerjaan:** Pegawai Negeri Sipil (PNS)
+  - **Hubungan Keluarga:** Istri
+  
+  </details>
 
-## Informasi Pribadi:
-- **NIK:** 3573055204780003
-- **Nama:** Ita Mardiana
-- **Tempat/Tanggal Lahir:** Pekalongan, 12/04/1978
-- **Jenis Kelamin:** Perempuan
-- **Status Perkawinan:** Kawin
-- **Pekerjaan:** Pegawai Negeri Sipil (PNS)
-- **Hubungan Keluarga:** Istri
+- <details>
+  <summary>Anak Pertama</summary>
 
-# CV: Mohammad Haidar Firdaus
+  ### CV: Mohammad Haidar Firdaus
 
-![Foto Mohammad Haidar Firdaus](link_ke_foto_mohammad_haidar_firdaus)
+  ![Foto Mohammad Haidar Firdaus](link_ke_foto_mohammad_haidar_firdaus)
 
-## Informasi Pribadi:
-- **NIK:** 3573052105080004
-- **Nama:** Mohammad Haidar Firdaus
-- **Tempat/Tanggal Lahir:** Pekalongan, 21/05/2008
-- **Jenis Kelamin:** Laki-Laki
-- **Status Perkawinan:** Belum Kawin
-- **Pekerjaan:** Pelajar/Mahasiswa
-- **Hubungan Keluarga:** Anak
+  #### Informasi Pribadi:
+  - **NIK:** 3573052105080004
+  - **Nama:** Mohammad Haidar Firdaus
+  - **Tempat/Tanggal Lahir:** Pekalongan, 21/05/2008
+  - **Jenis Kelamin:** Laki-Laki
+  - **Status Perkawinan:** Belum Kawin
+  - **Pekerjaan:** Pelajar/Mahasiswa
+  - **Hubungan Keluarga:** Anak
 
-# CV: Fakhira Nada Zalfa
+  </details>
 
-![Foto Fakhira Nada Zalfa](link_ke_foto_fakhira_nada_zalfa)
+- <details>
+  <summary>Anak Kedua</summary>
 
-## Informasi Pribadi:
-- **NIK:** 3573055110140001
-- **Nama:** Fakhira Nada Zalfa
-- **Tempat/Tanggal Lahir:** Malang, 11/10/2014
-- **Jenis Kelamin:** Perempuan
-- **Status Perkawinan:** Belum Kawin
-- **Pekerjaan:** Belum/Tidak Bekerja
-- **Hubungan Keluarga:** Anak
+  ### CV: Fakhira Nada Zalfa
+
+  ![Foto Fakhira Nada Zalfa](link_ke_foto_fakhira_nada_zalfa)
+
+  #### Informasi Pribadi:
+  - **NIK:** 3573055110140001
+  - **Nama:** Fakhira Nada Zalfa
+  - **Tempat/Tanggal Lahir:** Malang, 11/10/2014
+  - **Jenis Kelamin:** Perempuan
+  - **Status Perkawinan:** Belum Kawin
+  - **Pekerjaan:** Belum/Tidak Bekerja
+  - **Hubungan Keluarga:** Anak
+
+  </details>
