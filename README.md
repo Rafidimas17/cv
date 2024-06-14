@@ -39,7 +39,7 @@
   
   ### CV: Ita Mardiana
 
-  ![Foto Ita Mardiana](link_ke_foto_ita_mardiana)
+
 
   #### Informasi Pribadi:
   - **NIK:** 3573055204780003
@@ -57,7 +57,6 @@
 
   ### CV: Mohammad Haidar Firdaus
 
-  ![Foto Mohammad Haidar Firdaus](link_ke_foto_mohammad_haidar_firdaus)
 
   #### Informasi Pribadi:
   - **NIK:** 3573052105080004
@@ -75,7 +74,6 @@
 
   ### CV: Fakhira Nada Zalfa
 
-  ![Foto Fakhira Nada Zalfa](link_ke_foto_fakhira_nada_zalfa)
 
   #### Informasi Pribadi:
   - **NIK:** 3573055110140001
