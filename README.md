@@ -1,5 +1,7 @@
 # CV: Mohamad Khoiru Rusydi
 
+![Foto Mohamad Khoiru Rusydi](link_ke_foto_mohamad_khoiru_rusydi)
+
 ## Informasi Pribadi:
 - **NIK:** 3573051504780001
 - **Nama:** Mohamad Khoiru Rusydi
@@ -31,7 +33,14 @@
    - **Tanggal Ijazah:** 2019
    - **Jenjang:** S3
 
+## Keluarga:
+- [Istri](#cv-ita-mardiana)
+- [Anak Pertama](#cv-mohammad-haidar-firdaus)
+- [Anak Kedua](#cv-fakhira-nada-zalfa)
+
 # CV: Ita Mardiana
+
+![Foto Ita Mardiana](link_ke_foto_ita_mardiana)
 
 ## Informasi Pribadi:
 - **NIK:** 3573055204780003
@@ -44,6 +53,8 @@
 
 # CV: Mohammad Haidar Firdaus
 
+![Foto Mohammad Haidar Firdaus](link_ke_foto_mohammad_haidar_firdaus)
+
 ## Informasi Pribadi:
 - **NIK:** 3573052105080004
 - **Nama:** Mohammad Haidar Firdaus
@@ -54,6 +65,8 @@
 - **Hubungan Keluarga:** Anak
 
 # CV: Fakhira Nada Zalfa
+
+![Foto Fakhira Nada Zalfa](link_ke_foto_fakhira_nada_zalfa)
 
 ## Informasi Pribadi:
 - **NIK:** 3573055110140001
